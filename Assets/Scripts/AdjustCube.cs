@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+// Followed from AR Slider Tutorial: https://www.youtube.com/watch?v=uxgF9DkRYLM&ab_channel=JUNO%26LEONATANU
+
 public class AdjustCube : MonoBehaviour
 {
     // Start is called before the first frame update
